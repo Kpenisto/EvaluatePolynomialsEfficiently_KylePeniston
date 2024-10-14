@@ -1,0 +1,6 @@
+Timestamp: 2024/10/13 23:31:27
+Brute Force Result: 606113010
+Repeated Squaring Result: 606113010
+Horner's Rule Result: 606113010
+Results are the same: true
+
